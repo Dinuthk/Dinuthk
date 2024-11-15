@@ -10,7 +10,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-- 🔭 I’m currently working on **HealthCare Managment System web Application | Collaborate with Coltex-biz(PVT) LTD | MERN STACK **
+- 🔭 I’m currently working on HealthCare Managment System web Application | Collaborate with Coltex-biz(PVT) LTD | MERN STACK
 
 - 🌱 I’m currently learning **Angular & Spring boot**
 
