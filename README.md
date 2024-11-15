@@ -10,13 +10,13 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-- 🔭 I’m currently working on **Ecommerce App | MERN STACK PROJECT**
+- 🔭 I’m currently working on **HealthCare Managment System web Application | Collaborate with Coltex-biz(PVT) LTD | MERN STACK **
 
 - 🌱 I’m currently learning **Angular & Spring boot**
 
 - 📫 How to reach me **dinuthrathnayaka7@gmail.com**
 
-- ⚡ Fun fact **I am a robot**
+- ⚡ **I am a robot**
 
 </td>
 <td width="50%" align="center">
